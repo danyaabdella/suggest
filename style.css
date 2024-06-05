@@ -1,0 +1,42 @@
+.hole{
+
+    background-size:cover;
+    background-image:url(customers.jpg) ;
+    width:100%;
+    
+    align-items:center;
+    justify-content:center;
+    display:flex;
+    flex-direction:column;
+    
+}
+.container{
+   
+    background-color:dodgerblue;
+    filter:opacity(85%);
+    
+   
+    margin-bottom: 100px;
+    
+    align-items: center;
+    justify-content:center;
+}
+#submitBtn{
+    margin-bottom:10px;
+    background-color: red;
+    width:100%;
+    color:white;
+}
+h1{
+    color:white;
+    margin-top:50px;
+}
+p{
+    color:white;
+    font-style:italic;
+    font-size: 20px;
+}
+.text{
+    color:white;
+}
+
